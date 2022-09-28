@@ -1,0 +1,135 @@
+/* General */
+
+h1 {
+  font-family: "Prata", serif;
+  color: white;
+}
+h2 {
+  font-family: "Inter", sans-serif;
+  color: white;
+}
+
+/* Classes */
+
+.body1-para {
+  font-size: 24px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.container-fluid {
+  padding-left: 10px;
+}
+
+.footer-icons {
+  text-align: right;
+  padding-right: 200px;
+}
+
+.pp-articles-body {
+  font-size: 24px;
+}
+
+.pp-articles-header {
+  text-align: left;
+}
+
+/* ID */
+#body1 {
+  background-color: #36454f;
+  padding: 110px;
+}
+#body1-header {
+  font-size: 50px;
+}
+
+#body2 {
+  background-color: black;
+  padding: 110px;
+}
+
+#body2-header {
+  font-size: 50px;
+  margin-bottom: 30px;
+}
+#body2-text {
+  font-size: 28px;
+}
+
+#body2-GIT {
+  margin-top: 20px;
+}
+
+#footer {
+  background-color: #36454f;
+  padding-left: 110px;
+  padding-top: 25px;
+  padding-bottom: 15px;
+}
+
+#footer-words {
+  font-size: 24px;
+}
+
+#navBarBrand {
+  margin-top: 80px;
+  margin-left: 120px;
+  margin-bottom: 60px;
+
+  font-size: 36px;
+}
+
+#navbar-button {
+  margin-top: 80px;
+  margin-right: 120px;
+  margin-bottom: 60px;
+  font-size: 30px;
+}
+
+#navbar-list {
+  font-family: "Inter", sans-serif;
+  margin: auto;
+  margin-top: 80px;
+  font-size: 30px;
+}
+
+#pp-header {
+  font-size: 60px;
+  text-align: left;
+  margin-right: 990px;
+}
+
+#pp-body {
+  margin-right: 990px;
+  font-size: 23px;
+}
+
+#title {
+  background-color: black;
+}
+
+#pp-articles {
+  margin-left: 110px;
+  margin-right: 150px;
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+#pp-images {
+  margin-left: 110px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 50px;
+}
+
+#spenseimage {
+  width: 92%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+#yelpimage {
+  width: 92%;
+  height: auto;
+  margin-bottom: 10px;
+}
